@@ -1,0 +1,53 @@
+[en]
+MODE_TIMER = [^4%s^1] ^3%s ^1set up the ^4Protraction^1 mode
+MODE_ONEXONE = [^4%s^1] ^3%s ^1set up the ^4Battle^1 mode
+MODE_MR = [^4%s^1] ^3%s ^1set up the ^4Round-Robin^1 mode
+MODE_CANNOT = [^4%s^1] Mode cannot be changed during the match!
+MODE_PUB = [^4%s^1] ^3%s ^1set up the ^4Freemode
+
+PUB_ALREADY = [^4%s^1] ^3%s ^1Public HNS mode is already ^4running
+PUB_DISABLED = [^4%s^1] ^3%s ^4disabled ^1public HNS mode
+PUB_NOTRUNNING = [^4%s^1] ^3%s ^1Public HNS mode is ^4not running
+
+STATUS_NOPLAY = [^4%s^1] ^3%s ^1noplay. (^3NOPLAY^1)
+STATUS_PLAY = [^4%s^1] ^3%s ^1play. (^4NOPLAY^1)
+
+SET_NAMETT = [^4%s^1] ^3%s ^1set Hiders' team name to %s
+SET_NAMECT = [^4%s^1] ^3%s ^1set Seekers' team name to %s
+SET_MR = [^4%s^1] ^3%s ^1set rounds to ^4%d
+SET_ROUNDS = [^4%s^1] ^3%s ^1set the max rounds to ^4%d ^1 rounds
+
+GAME_CAP = [^4%s^1] ^3%s ^1choosing ^4leaders^1...
+GAME_SCORE = [^4%s^1] Round ^4%d^1 out of ^4%d^1 | Hiders [^4%s^1] vs [^4%s^1] Seekers
+GAME_SCORE_FINAL = [^4%s^1] ^4FINAL ROUND^1 | Hiders [^4%s^1] vs [^4%s^1] Seekers
+GAME_RESTART = [^4%s^1] ^3%s ^1restarted the round
+GAME_SWAP = [^4%s^1] ^3%s ^1swapped the teams
+GAME_PAUSED = [^4%s^1] ^4%s ^1paused the Protraction mode
+GAME_NOTSTART = [^4%s^1] Match not started ^4:(
+GAME_NOTSTARTED = [^4%s^1] Match not started or already paused (^3use /unpause^1)
+
+SEMECLIP_ON = [^4%s^1] ^3%s ^1activated Skill Mode (semiclip: ^4on^1)
+SEMECLIP_OFF = [^4%s^1] ^3%s ^1activated Boost Mode (semiclip: ^3off^1)
+
+TRANSF_SPEC = [^4%s^1] ^3%s ^1transfered all players to ^4Spectators
+TRANSF_TT = [^4%s^1] ^3%s ^1transfered all players to ^3Hiders's
+TRANSF_CT = [^4%s^1] ^3%s ^1transfered all players to ^3Seekers's
+
+AA_SOTKA = [^4%s^1] ^3%s ^1set the airaccelerate to ^4100
+AA_DESYATKA = [^4%s^1] ^3%s ^1set the airaccelerate to ^410
+
+KNIFE_SHOW = [^4%s^1] The knife is now %svisible
+
+STOP_KNIFE = [^4%s^1] ^3%s ^1stopped Knife Round
+STOP_MIX = [^4%s^1] ^3%s ^1stopped the mix
+STOP_PUB = [^4%s^1] ^3%s ^1stopped Public mode
+STOP_CAP = [^4%s^1] ^3%s ^1stopped ^4captain mode^1...
+
+ACTIVAED_ALLTALK = [^4%s^1] ^3%s ^1changed voice_talk to ^4ALL
+DISABLED_ALLTALK = [^4%s^1] ^3%s ^1changed voice_talk to ^4TEAM
+
+CAP_ONE = [^4%s^1] ^3%s ^1was chosen as ^4Seekers' Leader
+CAP_TWO = [^4%s^1] ^3%s ^1was chosen as ^4Hiders' Leader^1! A knife round is commencing...
+CAP_CHOOSE = [^4%s^1] ^4%s ^1chose player ^4%s
+
+PLAYER_REPLACE = [^4%s^1] ^4%s^1 has been replaced by ^4%s
